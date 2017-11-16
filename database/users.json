@@ -1,0 +1,17 @@
+{
+    "chandhu_kumar": {
+        "id":1,
+        "name":"chandhu kumar",
+        "verified":1
+    },
+    "dutt": {
+        "id":2,
+        "name":"sai dutt",
+        "verified":1
+    },
+    "hemadri": {
+        "id":4,
+        "name":"Doma Hemadri",
+        "verified":0
+    }
+}
