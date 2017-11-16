@@ -11,6 +11,10 @@ Install virtualenv and activate
 
 ## Start development server, navigate to url 
 
+To run the users
 
 ```python users.py```
 
+To run the list of users 
+
+```python user_list.py```
